@@ -1,8 +1,8 @@
 Hi 👋 My name is Simon Waithaka
 
-Python Developer,AI Developer & Machine Learning Engineer
+Python-AI Developer
 
-I'm passionate about Artificial Intelligence and building intelligent systems that solve real-world problems.
+I'm passionate about Artificial Intelligence and building intelligent systems that solve real-world problems; Django enthusiast.
 From machine learning models to LLM-powered applications, I love pushing the boundaries of what AI can do.
 
 🌍 I'm based in Nairobi,Kenya
